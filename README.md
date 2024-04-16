@@ -1,4 +1,4 @@
-# VCET-Connect
+# VC connect
 
 Problem Statement: Accessing college notes, question papers, and other resources can often be cumbersome and time-consuming for students. Traditional methods like physical notes or email attachments are inefficient and prone to loss or misplacement.
 
@@ -38,6 +38,9 @@ Snapshots
 ![Screenshot (105)](https://github.com/Anvithgopa/VC-Connect/assets/57863118/9dede191-1c7f-4349-b1db-048ac37e1b0e)
 
 
+CONCLUSION
+
+The VC Connect Application is simple and user friendly which can be operated easily by the user. The main idea of the project is help students to access notes and question paper all at one place and thereby reducing the time to search for resources elsewhere.  The application or significance of this app is in education domain where it helps the student in his studies. The application is very helpful in this busy world where the students need not search in the internet for notes and question papers of previous years. This app is mainly built with the aim to provide assistance for students in their busy schedule.
 
 
 
