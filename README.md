@@ -23,9 +23,10 @@ Software Requirements deal with defining software resource requirements and pre-
 •	Languages			: XML & Java
 Snapshots
 
-![VCconnect1](https://github.com/Anvithgopa/VC-Connect/assets/57863118/482f7ccf-179d-45cb-a964-49b08790266f) ![VCconnect2](https://github.com/Anvithgopa/VC-Connect/assets/57863118/cde9d291-a4bf-489e-b4c9-fd6e9503ed5e)![VCconnect3](https://github.com/Anvithgopa/VC-Connect/assets/57863118/8e564a07-aacc-428c-bc14-d70dc827b391)![VCconnect4](https://github.com/Anvithgopa/VC-Connect/assets/57863118/d6e496a3-531d-4e7e-8c29-2f7a8a503a93)![VCconnect5](https://github.com/Anvithgopa/VC-Connect/assets/57863118/e89e33cb-abca-4d1f-a1a6-4f1e0f34b2fa)
-![VCconnect6](https://github.com/Anvithgopa/VC-Connect/assets/57863118/604c7b97-d51d-44b2-bbfd-297fbb5cc73f)![VCconnect7](https://github.com/Anvithgopa/VC-Connect/assets/57863118/f595effd-b215-48b7-ac3d-284d72d3e94c)![VCconnect8](https://github.com/Anvithgopa/VC-Connect/assets/57863118/f4d93b4e-15f0-416d-9482-a0f74498d822)![VCconnect9](https://github.com/Anvithgopa/VC-Connect/assets/57863118/ea838926-ff3b-41df-9a0f-82449949b11e)
 
+
+![Screenshot (106)](https://github.com/Anvithgopa/VC-Connect/assets/57863118/4ab3b8a5-3ce0-421a-a51c-e3ebb4f52b9c)
+![Screenshot (105)](https://github.com/Anvithgopa/VC-Connect/assets/57863118/9dede191-1c7f-4349-b1db-048ac37e1b0e)
 
 
 
